@@ -1,0 +1,16 @@
+inti --> neues Git-Repository erstellen
+config --> abrufen und festlegen von Repositorys
+clone --> lokales/entferntes Repository klonen
+add --> geänderte Dateien hinzufügen
+rm --> Daten löschen
+commit --> Kommentare hinterlassen
+remote --> verwaltet die Repositorys
+push --> bearbeitete Dateien auf github online stellen
+pull --> intigrieren in ein anderes Repository oder in ein lokales Repository
+status --> zeigt den aktuellen Stand eines branches
+diff --> zeigt Änderungen zwischen commits und branches
+reset --> den aktuellen HEAD auf den angegebenen Status zurücksetzen
+log --> zeigt das commit Protokoll an 
+branch --> Erstellen eines Branches/Zweig
+checkout --> wechseln der Branches oder Wiederherstellung
+merge --> Verbinden zweier Branches
